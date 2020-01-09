@@ -11,11 +11,11 @@ public class DemoGit
 {
 
 	/**
-	 * Outputs my name
+	 * Ellis Sentoso
 	 */
 	public static void main(String[] args) 
 	{
-		System.out.println("Hello. My name is [Enter your name here]");
+		System.out.println("Hello. My name is Ellis");
 
 	}
 
